@@ -7,6 +7,7 @@
 
 import io
 import json
+import logging
 
 from fdk import response
 
